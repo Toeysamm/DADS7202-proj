@@ -6,5 +6,5 @@
 
 **Introduction:**
 
-**Data:** [Churn Modelling | Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
+**Data:** [Churn Modelling](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 
