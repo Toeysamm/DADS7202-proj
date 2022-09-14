@@ -8,4 +8,4 @@
 
 **Data:** [Churn Modelling](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 
-<img src="file:///C:/Users/Toeysam/Desktop/image-170.png" width="100">
+![image-170](https://user-images.githubusercontent.com/97492504/190207948-67f869e7-ed59-484b-b953-a9b2e336f773.png)
